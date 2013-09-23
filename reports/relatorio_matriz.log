@@ -1,0 +1,272 @@
+----------------------- PÁGINA 4KB -----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.423 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 43773					
+		- Escrita: 9252					
+		- Total: 53024					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 9205					
+		- Escrita: 1935					
+		- Total: 11139					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 1.392 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 65438					
+		- Escrita: 14378					
+		- Total: 79815					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 15213					
+		- Escrita: 2997					
+		- Total: 18209					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 6.129 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 579807					
+		- Escrita: 5099					
+		- Total: 584905					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 5463					
+		- Escrita: 30					
+		- Total: 5492					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 16KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.583 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 243241					
+		- Escrita: 44252					
+		- Total: 287492					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 43499					
+		- Escrita: 10208					
+		- Total: 53706					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.788 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 279647					
+		- Escrita: 44860					
+		- Total: 324506					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 46096					
+		- Escrita: 8747					
+		- Total: 54842					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 2.129 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 611621					
+		- Escrita: 13737					
+		- Total: 625357					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 14402					
+		- Escrita: 40					
+		- Total: 14441					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 32KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.632 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 319817					
+		- Escrita: 46090					
+		- Total: 365906					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 54363					
+		- Escrita: 1955					
+		- Total: 56317					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.640 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 357328					
+		- Escrita: 46469					
+		- Total: 403796					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 55199					
+		- Escrita: 1711					
+		- Total: 56909					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 1.495 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 642051					
+		- Escrita: 36896					
+		- Total: 678946					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 37749					
+		- Escrita: 56					
+		- Total: 37804					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 64KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.688 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 406839					
+		- Escrita: 51746					
+		- Total: 458584					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 58132					
+		- Escrita: 1285					
+		- Total: 59416					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.597 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 406839					
+		- Escrita: 51746					
+		- Total: 458584					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 58132					
+		- Escrita: 1285					
+		- Total: 59416					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: matriz.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 1.042 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 932831				 
+		- Escrita: 67170				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 625231					
+		- Escrita: 52361					
+		- Total: 677591					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 53573					
+		- Escrita: 76					
+		- Total: 53648					 
+
+----------------------------------------------------------
+

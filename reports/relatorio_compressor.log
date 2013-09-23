@@ -1,0 +1,271 @@
+----------------------- PÁGINA 4KB -----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.352 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 1904					
+		- Escrita: 299					
+		- Total: 2202					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 583					
+		- Escrita: 151					
+		- Total: 733					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.378 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 2215					
+		- Escrita: 348					
+		- Total: 2562					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 694					
+		- Escrita: 179					
+		- Total: 872					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 1.232 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 113536					
+		- Escrita: 403					
+		- Total: 113938					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 361					
+		- Escrita: 119					
+		- Total: 479					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 16KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.350 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 9356					
+		- Escrita: 399					
+		- Total: 9754					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 1026					
+		- Escrita: 187					
+		- Total: 1212					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.360 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 10265					
+		- Escrita: 949					
+		- Total: 11213					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 2038					
+		- Escrita: 246					
+		- Total: 2283					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.576 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 114809					
+		- Escrita: 774					
+		- Total: 115582					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 894					
+		- Escrita: 117					
+		- Total: 1010					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 32KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.399 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 94764					
+		- Escrita: 8173					
+		- Total: 102936					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 36577					
+		- Escrita: 2853					
+		- Total: 39429					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.428 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 104519					
+		- Escrita: 8828					
+		- Total: 113346					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 37442					
+		- Escrita: 3614					
+		- Total: 41055					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.549 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 160746					
+		- Escrita: 7951					
+		- Total: 168696					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 11310					
+		- Escrita: 141					
+		- Total: 11450					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 64KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.450 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 185243					
+		- Escrita: 31341					
+		- Total: 216583					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 49930					
+		- Escrita: 662					
+		- Total: 50591					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.461 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 185243					
+		- Escrita: 31341					
+		- Total: 216583					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 49930					
+		- Escrita: 662					
+		- Total: 50591					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: compressor.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.593 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 877582				 
+		- Escrita: 122419				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 304796					
+		- Escrita: 28022					
+		- Total: 332817					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 38381					
+		- Escrita: 223					
+		- Total: 38603					 
+
+----------------------------------------------------------

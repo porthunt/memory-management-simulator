@@ -1,0 +1,33 @@
+Após ter recebido os argumentos, inicializa-se as estruturas de lista que irão auxiliar os algoritimos
+de substituição de página, e um vetor de QuadroPagina que irá servir para representar a memória virtual.
+
+O programa incializa o ciclo de leitura do arquivo, onde lê a cada linha um acesso de memória, que busca uma página
+no quadro de páginas, caso a página seja encontrada, o acesso é contabilizado, e o programa passa para o passo
+seguinte da iteração.
+
+Caso não consiga encontrar a página, o progama através do algoritmo de substiuição escolhido, irá verificar
+se a memoria virtual está vazia, essa comparação se faz através dos seguintes fatores: o tamanho máximo da memória
+é passado por parâmetro, e a cada página inserida se soma a um contador o tamanho de página passado por parâmetro também.
+Quando este é igual ao tamanho total, a memória virutal está cheia.
+
+Caso a memória virtual não esteja cheia, será criada a página pedida, e inserida no quadro de página, adicionando
+no contador o tamanho dela.
+
+Caso esteja cheia, será utilizado o algoritimo de substituição escolhido para identificar a página a ser substituída.
+Tal página, caso tenha sido alterada, será incrementado o contador de páginas "sujas", e será removida, subtraindo do
+contador de tamanho o tamanho dela, e será criada a página pedida, e inserida no quadro de página a página nova.
+O contador será incrementado o contador de trocas.
+
+Esse processo irá se repetir até o fim do arquivo. Quando o arquivo acabar, será mostrado na tela um pequeno relatório,
+e sera oferecida ao usuário a opção de criar um arquivo log se este desejar, com maiores informações.
+
+A estrutura de lista utilizada, é uma lista encadeada dupla, contendo ponteiros para o primeiro e o último elemento da lista,
+além do tamanho dela.
+
+Cada nó da lista, além dos ponteiros de encadeamento, representa uma página, contendo o endereco real,
+o identificador de a que quadro ela pertence, dois chars representando os bits de referência (R) e modificação (M)
+e um char para identificar se a página está na memória virtual.
+
+O vetor de QuadroPagina que representa a memória física, contém as representações de páginas citadas acima,
+representando-as na memória virutal.
+

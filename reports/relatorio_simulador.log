@@ -1,0 +1,271 @@
+----------------------- PÁGINA 4KB -----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.428 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 59296					
+		- Escrita: 11553					
+		- Total: 70848					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 11334					
+		- Escrita: 3098					
+		- Total: 14431					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 1.488 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 72428					
+		- Escrita: 14577					
+		- Total: 87004					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 15199					
+		- Escrita: 4009					
+		- Total: 19207					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 4 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 3.732 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 329300					
+		- Escrita: 8993					
+		- Total: 338292					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 8348					
+		- Escrita: 1067					
+		- Total: 9414					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 16KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.504 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 139249					
+		- Escrita: 31741					
+		- Total: 170989					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 29836					
+		- Escrita: 8357					
+		- Total: 38192					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.642 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 168111					
+		- Escrita: 40256					
+		- Total: 208366					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 42847					
+		- Escrita: 10892					
+		- Total: 53738					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 16 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 1.478 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 355304					
+		- Escrita: 18221					
+		- Total: 373524					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 17303					
+		- Escrita: 1812					
+		- Total: 19114					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 32KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.550 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 193558					
+		- Escrita: 55752					
+		- Total: 249309					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 58204					
+		- Escrita: 17151					
+		- Total: 75354					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.553 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 214607					
+		- Escrita: 59832					
+		- Total: 274438					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 65062					
+		- Escrita: 16551					
+		- Total: 81612					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 32 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.993 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 322563					
+		- Escrita: 30614					
+		- Total: 353176					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 29687					
+		- Escrita: 2307					
+		- Total: 31993					 
+
+----------------------------------------------------------
+
+----------------------- PÁGINA 64KB ----------------------
+
+Algoritmo de Substituição: Segunda Chance (SEG)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.656 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 318876					
+		- Escrita: 108697					
+		- Total: 427572					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 100069					
+		- Escrita: 28138					
+		- Total: 128206					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Least Recently Used (LRU)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.583 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 318876					
+		- Escrita: 108697					
+		- Total: 427572					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 100069					
+		- Escrita: 28138					
+		- Total: 128206					 
+
+----------------------------------------------------------
+
+Algoritmo de Substituição: Not Recently Used (NRU)	 
+Arquivo: simulador.log				 
+Tamanho da Página: 64 KB					 
+Tamanho da Memória: 128 KB				 
+Tempo: 0.862 secs					 
+
+Resultados:
+	Acessos à Memória:					 
+		- Leitura: 839018				 
+		- Escrita: 160983				 
+		- Total: 1000000				 
+	Faltas de Página:					
+		- Leitura: 394895					
+		- Escrita: 78334					
+		- Total: 473228					
+	Páginas Sujas Re-escritas:				 
+		- Leitura: 78415					
+		- Escrita: 3124					
+		- Total: 81538					 
+
+----------------------------------------------------------
